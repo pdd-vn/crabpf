@@ -14,4 +14,3 @@ Cargo.lock
 *.vim
 *.vscode
 scripts
-.cargo
